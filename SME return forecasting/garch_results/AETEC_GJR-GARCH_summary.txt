@@ -1,0 +1,23 @@
+                     Zero Mean - GJR-GARCH Model Results                      
+==============================================================================
+Dep. Variable:                   None   R-squared:                       0.000
+Mean Model:                 Zero Mean   Adj. R-squared:                  0.003
+Vol Model:                  GJR-GARCH   Log-Likelihood:                834.248
+Distribution:                  Normal   AIC:                          -1656.50
+Method:            Maximum Likelihood   BIC:                          -1632.59
+                                        No. Observations:                  397
+Date:                Wed, Jun 04 2025   Df Residuals:                      397
+Time:                        10:46:40   Df Model:                            0
+                               Volatility Model                              
+=============================================================================
+                 coef    std err          t      P>|t|       95.0% Conf. Int.
+-----------------------------------------------------------------------------
+omega      2.0725e-04  1.841e-04      1.125      0.260 [-1.537e-04,5.681e-04]
+alpha[1]   3.1847e-11      0.158  2.013e-10      1.000      [ -0.310,  0.310]
+alpha[2]   7.1922e-11      0.308  2.334e-10      1.000      [ -0.604,  0.604]
+alpha[3]       0.1951      0.235      0.829      0.407      [ -0.266,  0.656]
+gamma[1]       0.1139      0.156      0.730      0.466      [ -0.192,  0.420]
+beta[1]        0.5473      0.266      2.056  3.977e-02    [2.560e-02,  1.069]
+=============================================================================
+
+Covariance estimator: robust

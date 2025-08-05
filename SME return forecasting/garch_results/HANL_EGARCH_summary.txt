@@ -1,0 +1,21 @@
+                       Zero Mean - EGARCH Model Results                       
+==============================================================================
+Dep. Variable:                   None   R-squared:                       0.000
+Mean Model:                 Zero Mean   Adj. R-squared:                  0.004
+Vol Model:                     EGARCH   Log-Likelihood:                572.772
+Distribution:                  Normal   AIC:                          -1137.54
+Method:            Maximum Likelihood   BIC:                          -1123.84
+                                        No. Observations:                  227
+Date:                Wed, Jun 04 2025   Df Residuals:                      227
+Time:                        10:46:47   Df Model:                            0
+                             Volatility Model                             
+==========================================================================
+                 coef    std err          t      P>|t|    95.0% Conf. Int.
+--------------------------------------------------------------------------
+omega         -0.1639      0.132     -1.244      0.213 [ -0.422,9.420e-02]
+alpha[1]       0.5693      0.111      5.110  3.216e-07   [  0.351,  0.788]
+alpha[2]      -0.3896      0.113     -3.445  5.708e-04   [ -0.611, -0.168]
+beta[1]        0.9747  1.640e-02     59.450      0.000   [  0.943,  1.007]
+==========================================================================
+
+Covariance estimator: robust

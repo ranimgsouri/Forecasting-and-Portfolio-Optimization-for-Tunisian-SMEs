@@ -1,0 +1,15 @@
+=== ADF Test ===
+Statistic: -29.63110502601205
+p-value: 0.0
+Critical Values: {'1%': np.float64(-3.439593802573824), '5%': np.float64(-2.865619356068967), '10%': np.float64(-2.568942332870462)}
+
+=== KPSS Test ===
+Statistic: 0.21918593235768585
+p-value: 0.1
+Critical Values: {'10%': 0.347, '5%': 0.463, '2.5%': 0.574, '1%': 0.739}
+
+=== PP Test ===
+Statistic: -29.55671331897051
+p-value: 0.0
+Critical Values: {'1%': np.float64(-3.439593802573824), '5%': np.float64(-2.865619356068967), '10%': np.float64(-2.568942332870462)}
+
